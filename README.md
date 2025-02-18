@@ -22,9 +22,9 @@
 <h2 align="left">I code with</h2>
 
 ###
-<img src="https://github.com/patricioGarzon/Unipol/blob/main/UniPol.JPG" height="40" alt="cplusplus logo"  />
-<img width="40" />
-<img src="https://github.com/patricioGarzon/Trinity/blob/main/Trinity.png" height="40" alt="cplusplus logo"  />
+<img src="https://github.com/patricioGarzon/Unipol/blob/main/UniPol.JPG" height="40" alt="Unipol Project"  />
+<img width="20" />
+<img src="https://github.com/patricioGarzon/Trinity/blob/main/Trinity.png" height="40" alt="Trinity Logo"  />
 <img width="40" />
   
 ###
