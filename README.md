@@ -16,19 +16,18 @@
 
 <h2 align="left">Past Projects</h2>
 
-
-###
-
-<h2 align="left">I code with</h2>
-
 ###
 
 <div align="left">
 <img src="https://github.com/patricioGarzon/Unipol/blob/main/UniPol.JPG" height="40" alt="Unipol Project"  />
-<img width="20" />
+<img width="40" />
 <img src="https://github.com/patricioGarzon/Trinity/blob/main/Trinity.png" height="40" alt="Trinity Logo"  />
 <img width="40" />
 </div>
+
+###
+
+<h2 align="left">I code with</h2>
   
 ###
 
