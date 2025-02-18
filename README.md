@@ -19,9 +19,13 @@
 ###
 
 <div align="left">
-[![Unipol Project](https://github.com/patricioGarzon/Unipol/blob/main/UniPol.JPG)](https://github.com/patricioGarzon/Unipol)
+ <a href="https://github.com/patricioGarzon/Unipol">
+        <img src="https://github.com/patricioGarzon/Unipol/blob/main/UniPol.JPG" height="40" alt="Unipol Project" />
+</a>
 <img width="40" />
-<img src="https://github.com/patricioGarzon/Trinity/blob/main/Trinity.png" height="40" alt="Trinity Logo"  />
+<a href="https://github.com/patricioGarzon/Trinity">  
+  <img src="https://github.com/patricioGarzon/Trinity/blob/main/Trinity.png" height="40" alt="Trinity Logo"  />
+</a>
 <img width="40" />
 </div>
 
