@@ -14,8 +14,17 @@
 
 ###
 
+<h2 align="left">Past Projects</h2>
+
+
+###
+
 <h2 align="left">I code with</h2>
 
+###
+<img src="https://github.com/patricioGarzon/Unipol/blob/main/UniPol.JPG" height="40" alt="cplusplus logo"  />
+<img width="12" />
+  
 ###
 
 <div align="left">
